@@ -1,0 +1,21 @@
+{
+  "brand_identity": {
+    "name": "Ocean Properties Aparthotel & Villas",
+    "location": "Playa Destiladeros, Pedasí, Panamá",
+    "website": "4rentpanama.com",
+    "design_system": {
+      "colors": {
+        "primary_black": "#000000",
+        "primary_white": "#FFFFFF"
+      },
+      "logos": {
+        "light_mode": "logos/logo-horizontal-black.png",
+        "dark_mode": "logos/logo-horizontal-white.png",
+        "symbol_only_dark": "logos/symbol-black.png",
+        "symbol_only_light": "logos/symbol-white.png",
+        "location_specific_dark": "logos/logo-location-black.png",
+        "location_specific_light": "logos/logo-location-white.png"
+      }
+    }
+  }
+}
